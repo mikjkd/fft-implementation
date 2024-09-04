@@ -6,7 +6,7 @@ This repository contains an implementation of the Fast Fourier Transform (FFT) a
 
 - **`fft_impl.py`**: This file contains the Python implementation of the FFT algorithm from scratch.
 - **`fft_example.py`**: This script demonstrates how to use the FFT implementation on a synthetic sine wave signal and visualize the results.
-- **`DSP - Barzegar Castello Di Giovanni.pptx`**: A PowerPoint presentation that covers the theoretical aspects of Fourier series, Fourier transforms, and FFT, including the algorithm used in this implementation.
+- **`DSP - Background.pdf`**: A PowerPoint presentation that covers the theoretical aspects of FFT, including the algorithm used in this implementation.
 
 ## Getting Started
 
