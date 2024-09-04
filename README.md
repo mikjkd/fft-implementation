@@ -41,5 +41,5 @@ This will generate and plot a sine wave, apply the FFT, and plot the FFT result.
 
 ## Theoretical Background
 
-For a deeper understanding of the Fourier series, Fourier transform, and FFT, refer to the PowerPoint presentation (`DSP - Barzegar Castello Di Giovanni.pptx`). It provides an overview of the mathematical concepts and the historical development of the FFT algorithm.
+For a deeper understanding of the Fourier series, Fourier transform, and FFT, refer to the PowerPoint presentation (`DSP - Background.pdf`). It provides an overview of the mathematical concepts and the historical development of the FFT algorithm.
 
